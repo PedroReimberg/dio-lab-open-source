@@ -3,7 +3,7 @@
 
 <h2 align="left"><font size="5">🎓 Bachelor Degree</font></h2><br>
 
-<p align="left"><img src= "https://pnpgrafica.com.br/wp-content/uploads/2022/08/unip-logo.png" width= "80"><font size="4"> - Computer Science - Universidade Paulista (UNIP)</font></p>
+<p align="left"><img src= "https://www.unip.br/assets/img/logo/logo-unip.svg" width= "80"><font size="4"> - Computer Science - Universidade Paulista (UNIP)</font></p>
 
 <h2 align="left">🌐 Connect with me: </h2>
 
